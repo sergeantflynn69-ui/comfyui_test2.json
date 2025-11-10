@@ -3,7 +3,7 @@
     "workflow": {
       "1": {
         "inputs": {
-          "ckpt_name": "ultraRealistic_SDXL_1_FP16.safetensors"
+          "ckpt_name": "ultraRealisticByStable_v20FP16.safetensors"
         },
         "class_type": "CheckpointLoaderSimple",
         "_meta": {
